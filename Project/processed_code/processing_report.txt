@@ -1,0 +1,154 @@
+Processing Report - Mon Sep 29 15:23:34 IST 2025
+File: SampleDemo.java
+Extension: .java
+Total Lines: 41
+Non-blank Lines: 28
+Complexity: Cyclomatic Complexity: 8
+Imports: 0
+Classes: 1
+Methods: 4
+Variables: 7
+Method Details:
+  - public static int add(int a, int b)
+    Lines: 3
+    Parameters: int a, int b
+    Return Type: int
+  - public static boolean isPrime(int n)
+    Lines: 5
+    Parameters: int n
+    Return Type: boolean
+  - public static String reverse(String str)
+    Lines: 4
+    Parameters: String str
+    Return Type: String
+  - public static void main(String[] args)
+    Lines: 9
+    Parameters: String[] args
+    Return Type: void
+Variable Usage:
+  - false: 2 uses
+  - true: 1 uses
+  - x: 4 uses
+  - i: 8 uses
+  - sb: 2 uses
+----------------------------------------
+Processing Report - Mon Sep 29 15:38:56 IST 2025
+File: SampleDemo.java
+Extension: .java
+Total Lines: 41
+Non-blank Lines: 28
+Complexity: Cyclomatic Complexity: 8
+Imports: 0
+Classes: 1
+Methods: 4
+Variables: 7
+Method Details:
+  - public static int add(int a, int b)
+    Lines: 3
+    Parameters: int a, int b
+    Return Type: int
+  - public static boolean isPrime(int n)
+    Lines: 5
+    Parameters: int n
+    Return Type: boolean
+  - public static String reverse(String str)
+    Lines: 4
+    Parameters: String str
+    Return Type: String
+  - public static void main(String[] args)
+    Lines: 9
+    Parameters: String[] args
+    Return Type: void
+Variable Usage:
+  - false: 2 uses
+  - true: 1 uses
+  - x: 4 uses
+  - i: 8 uses
+  - sb: 2 uses
+----------------------------------------
+Processing Report - Mon Sep 29 15:49:18 IST 2025
+File: SampleDemo.java
+Extension: .java
+Total Lines: 41
+Non-blank Lines: 28
+Complexity: Cyclomatic Complexity: 8
+Imports: 0
+Classes: 1
+Methods: 4
+Variables: 7
+Method Details:
+  - public static int add(int a, int b)
+    Lines: 3
+    Parameters: int a, int b
+    Return Type: int
+  - public static boolean isPrime(int n)
+    Lines: 5
+    Parameters: int n
+    Return Type: boolean
+  - public static String reverse(String str)
+    Lines: 4
+    Parameters: String str
+    Return Type: String
+  - public static void main(String[] args)
+    Lines: 9
+    Parameters: String[] args
+    Return Type: void
+Variable Usage:
+  - false: 2 uses
+  - true: 1 uses
+  - x: 4 uses
+  - i: 8 uses
+  - sb: 2 uses
+----------------------------------------
+Processing Report - Mon Sep 29 15:52:33 IST 2025
+File: SampleDemo.java
+Extension: .java
+Total Lines: 41
+Non-blank Lines: 28
+Complexity: Cyclomatic Complexity: 8
+Imports: 0
+Classes: 1
+Methods: 0
+Variables: 0
+Method Details:
+Variable Usage:
+  - false: 2 uses
+  - true: 1 uses
+  - x: 4 uses
+  - i: 8 uses
+  - sb: 2 uses
+----------------------------------------
+Processing Report - Mon Sep 29 15:53:47 IST 2025
+File: SampleDemo.java
+Extension: .java
+Total Lines: 41
+Non-blank Lines: 28
+Complexity: Cyclomatic Complexity: 8
+Imports: 0
+Classes: 1
+Methods: 4
+Variables: 7
+Method Details:
+  - public static int add(int a, int b)
+    Lines: 3
+    Parameters: int a, int b
+    Return Type: int
+  - public static boolean isPrime(int n)
+    Lines: 5
+    Parameters: int n
+    Return Type: boolean
+  - public static String reverse(String str)
+    Lines: 4
+    Parameters: String str
+    Return Type: String
+  - public static void main(String[] args)
+    Lines: 9
+    Parameters: String[] args
+    Return Type: void
+Variable Usage:
+  - false: 2 uses
+  - true: 1 uses
+  - x: 4 uses
+  - i: 8 uses
+  - sb: 2 uses
+----------------------------------------
